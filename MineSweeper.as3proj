@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <!-- Output SWF options -->
+  <output>
+    <movie disabled="False" />
+    <movie input="" />
+    <movie path="MineSweeper.swf" />
+    <movie fps="29" />
+    <movie width="700" />
+    <movie height="510" />
+    <movie version="10" />
+    <movie background="#FFFFFF" />
+  </output>
+  <!-- Other classes to be compiled into your SWF -->
+  <classpaths>
+    <!-- example: <class path="..." /> -->
+  </classpaths>
+  <!-- Build options -->
+  <build>
+    <option accessible="False" />
+    <option allowSourcePathOverlap="False" />
+    <option benchmark="False" />
+    <option es="False" />
+    <option locale="" />
+    <option loadConfig="" />
+    <option optimize="False" />
+    <option showActionScriptWarnings="True" />
+    <option showBindingWarnings="True" />
+    <option showDeprecationWarnings="True" />
+    <option showUnusedTypeSelectorWarnings="True" />
+    <option strict="True" />
+    <option useNetwork="False" />
+    <option useResourceBundleMetadata="True" />
+    <option warnings="True" />
+    <option verboseStackTraces="False" />
+    <option linkReport="" />
+    <option loadExterns="" />
+    <option staticLinkRSL="True" />
+    <option additional="" />
+    <option compilerConstants="" />
+    <option customSDK="" />
+  </build>
+  <!-- SWC Include Libraries -->
+  <includeLibraries>
+    <!-- example: <element path="..." /> -->
+  </includeLibraries>
+  <!-- SWC Libraries -->
+  <libraryPaths>
+    <!-- example: <element path="..." /> -->
+  </libraryPaths>
+  <!-- External Libraries -->
+  <externalLibraryPaths>
+    <!-- example: <element path="..." /> -->
+  </externalLibraryPaths>
+  <!-- Runtime Shared Libraries -->
+  <rslPaths>
+    <!-- example: <element path="..." /> -->
+  </rslPaths>
+  <!-- Intrinsic Libraries -->
+  <intrinsics>
+    <!-- example: <element path="..." /> -->
+  </intrinsics>
+  <!-- Assets to embed into the output SWF -->
+  <library>
+    <asset path="gfx\fonts\proggyclean.png" />
+    <asset path="gfx\numbers\1.png" />
+    <asset path="gfx\numbers\2.png" />
+    <asset path="gfx\numbers\3.png" />
+    <asset path="gfx\numbers\4.png" />
+    <asset path="gfx\numbers\5.png" />
+    <asset path="gfx\numbers\6.png" />
+    <asset path="gfx\numbers\7.png" />
+    <asset path="gfx\numbers\8.png" />
+    <asset path="gfx\sprites\bomb.png" />
+    <asset path="gfx\sprites\Bullet.png" />
+    <asset path="gfx\sprites\flag.png" />
+    <asset path="gfx\sprites\Guard.png" />
+    <asset path="gfx\sprites\LoSDroid.png" />
+    <asset path="gfx\sprites\map.png" />
+    <asset path="gfx\sprites\mine.png" />
+    <asset path="gfx\sprites\MineLayer.png" />
+    <asset path="gfx\sprites\Player.png" />
+    <asset path="gfx\sprites\powerdown.png" />
+    <asset path="gfx\sprites\ProximityDroid.png" />
+    <asset path="gfx\sprites\stealth.png" />
+    <asset path="gfx\sprites\teleport.png" />
+    <asset path="gfx\sprites\TestDroid.png" />
+    <asset path="gfx\sprites\WallHugger.png" />
+    <asset path="gfx\tsp\tiles\bomb.png" />
+    <asset path="gfx\tsp\tiles\highlightMines.png" />
+    <asset path="gfx\tsp\tiles\powerdown.png" />
+    <asset path="gfx\tsp\tiles\stealth.png" />
+    <asset path="gfx\tsp\tiles\teleport.png" />
+    <asset path="gfx\tsp\tiles\tile.png" />
+    <asset path="gfx\tsp\tiles\tile1.png" />
+    <asset path="gfx\tsp\tiles\tile2.png" />
+    <asset path="gfx\tsp\tiles\yay.png" />
+    <asset path="gfx\tsp\Level1.png" />
+    <asset path="src\Library.swf" />
+    <asset path="lib\Library.swf" />
+  </library>
+  <!-- Class files to compile (other referenced classes will automatically be included) -->
+  <compileTargets>
+    <compile path="src\Main.as" />
+  </compileTargets>
+  <!-- Paths to exclude from the Project Explorer tree -->
+  <hiddenPaths>
+    <!-- example: <hidden path="..." /> -->
+  </hiddenPaths>
+  <!-- Executed before build -->
+  <preBuildCommand />
+  <!-- Executed after build -->
+  <postBuildCommand alwaysRun="False" />
+  <!-- Other project options -->
+  <options>
+    <option showHiddenPaths="False" />
+    <option testMovie="Default" />
+  </options>
+</project>
