@@ -1,0 +1,15 @@
+<ika-tileset> 
+	<version>1.0</version>
+	<information> 
+		<title>untitled</title>
+		<meta></meta>
+	</information>
+	<animations> </animations>
+	<tiles> 
+		<count>645</count>
+		<dimensions> 
+			<width>50<height>
+			<height>50</height>
+		</dimensions>
+	</tiles>
+</ika-tileset>

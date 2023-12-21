@@ -1,0 +1,150 @@
+<ika-map> 
+	<version>1.2</version>
+	<information> 
+		<title>untitled</tile>
+		<meta></meta>
+	</information> 
+	<header> 
+		<dimensions> 
+			<width>1600</width>
+			<height>1500</height>
+		</dimensions> 
+		<tileset>minesweeper_adventure/tilesets/beach.ika-tileset</tileset>
+	</header>
+	<waypoints></waypoints>
+	<zones></zones>
+	<layers> 
+		<layer> 
+			<label>new layer 0</label>
+			<type>tile</type>
+			<dimensions> 
+				<width>32</width> 
+				<height>30</height> 
+			</dimensions>
+			<position> 
+				<x>0</x>
+				<y>0</y>
+			</position>
+			<parallax> 
+				<mulx>1</mulx>
+				<muly>1</muly>
+				<divx>1</divx>
+				<divy>1</divy>
+			</parallax>
+			<wrap> 
+				<x>false</x>
+				<y>false</y>
+			</wrap>
+			<data> 
+				<format>zlib</format>
+				eNq1l0tsTVEUhvfZSZHGyDPaXtKijBhUtI14tIyQNIJI4y0aSqmWRFu3ErPbeibMTGj1QSXMaoAope2ADpiIAYlq4pEgIV6h/uXsnbPuvud5cw2+7Mc5Z/1n7b3W2ud0W0J0K7pY/39wWQjRBq6ifw9tn/C/v9Vjfpe0221otyt2SGfM+3q8E9yB3l2lvxSsl+72OwL8OI7nGkGTtG0RcTaOu1xrBs+FM0dUBvjJaWH9L7AzUaZSCGIyWcOPXyK9fVwIPinmQS8bzAefMS5l+gmjNXmQAf1htaZl0C0Hb5j9BlxrBE3gmEjVX8tsjsezs0OyXDr6T4T3+vaB++Qn6Lfc9fXeT4DNfZQjoA3sVVQbrSZT+qSdA+ZAv8ayIfu94JahfVGk6j9W+nNV/CVp4No10AOuC//9X4FnR4Sj/xQ8M/yudvF/pYr9VSr+uP2HsPcIDIBBpc/zQ/u/GEwGa0LyTTj6RA3GB0Sqvrn+oyo/pEyNPy9muMy9EHbO6bxLYNzC9Ecj7n9UTrC9LJPOu5SztX2Pe+pAPTgMjoj08l+A32j+gDFh94s94r2S9d/hvtPgDDgLzolw/udY/mdCHHZG0LZb4evsTCMvYj77v07Fox4XgUVsXIxnS8AVQ+MD3qsA81nGvCXteOB1Udfo6SH2usIYk/+0/241PdfD/w0uZ1KWIurZS/rN4Dz6Fwybe5jPfH4KmAqmsblxIDtCzOvz97Vl7/8NcNPF183Q3mLof8f7/gA/WQwWgMI0cm+MckI6OW7G1lGMGwK+AQ7CRC04pPIvz0Nrv0t+1irbVMPyWa3h5AfkQyvsngSn0jj/c6GbB2YZPr6FrWXSyYWgnOwibRf9ogB9nX+bfNb4ko/uJFZ7+kVwvml6RXL8a3tmHXA9hxkLPPzv8Kl79N08hPa2cOLftNtuJX+H6fndeKaKve/qAP81MfZt/JHOWzrf6DzHeAD0gMEINVgzZPi/0eMdSlne0xp0qtjQ8Udxz2tQIuJ7/Kv9EeO/gsUf5Z9Zg+plckt8Fd7xb65/p2pLQtRf057OxzqZOf/pP2+r8V9H/3Gkb+bYkoj/Pi9h4xX4C2V4NJI=
+			</data>
+			<obstructions> 
+				<style>tile</style>
+				<format>zlib</format>
+				eNqNkkkOACEIBKn/f3qiThRaQT0YTbE0i5lh6aFgL1xiM07Oh0nFu8UyYwaVyP+78aPKyftjXJ44f7QE8/mR/Kh/lE7Ctf4jX6Fc/fUA45RWUE6u5J7aVSPvKimXrWk2sU75bfkv+4eY7RqI/SDTB2/7TymIi+DTlLnUF/kHiE0Avw==
+			</obstructions>
+			<entities> </entities>
+			<zones> </zones>
+		</layer>
+		<layer> 
+			<label>mine layer 0</label>
+			<type>tile</type>
+			<dimensions> 
+				<width>32</width>
+				<height>30</height>
+			</dimensions>
+			<position> 
+				<x>0</x>
+				<y>0</y>
+			</position>
+			<parallax> 
+				<mulx>1</mulx>
+				<muly>1</muly>
+				<divx>1</divx>
+				<divy>1</divy>
+			</parallax>
+			<wrap> 
+				<x>false</x>
+				<y>false</y>
+			</wrap>
+			<data> 
+				<format>zlib</format>
+				eNrtwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+			</data>
+			<obstructions> 
+				<style>tile</style>
+				<format>zlib</format>
+				eNpjYBgFo2AUDCQAAAOEAAE=
+			</obstructions>
+			<entities> </entities>
+			<zones> </zones>
+		</layer>
+		<layer> 
+			<label>mine layer 0</label>
+			<type>tile</type>
+			<dimensions> 
+				<width>32</width>
+				<height>30</height>
+			</dimensions>
+			<position> 
+				<x>0</x>
+				<y>0</y>
+			</position>
+			<parallax> 
+				<mulx>1</mulx>
+				<muly>1</muly>
+				<divx>1</divx>
+				<divy>1</divy>
+			</parallax>
+			<wrap> 
+				<x>false</x>
+				<y>false</y>
+			</wrap>
+			<data> 
+				<format>zlib</format>
+				eNrtwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+			</data>
+			<obstructions> 
+				<style>tile</style>
+				<format>zlib</format>
+				eNpjYBgFo2AUDCQAAAOEAAE=
+			</obstructions>
+			<entities> </entities>
+			<zones> </zones>
+		</layer>
+        <layer> 
+			<label>new layer 1</label>
+			<type>tile</type>
+			<dimensions> 
+				<width>32</width>
+				<height>30</height>
+			</dimensions>
+			<position> 
+				<x>0</x>
+				<y>0</y>
+			</position>
+			<parallax> 
+				<mulx>1</mulx>
+				<muly>1</muly>
+				<divx>1</divx>
+				<divy>1</divy>
+			</parallax>
+			<wrap> 
+				<x>false</x>
+				<y>false</y>
+			</wrap>
+			<data> 
+				<format>zlib</format>
+				eNpjYBgFo2AUDAVQPxoEWEEAEAeOBsMoGAWjgAhgNsD2BwFxMBCHEFDnPxpVo4BC4AHEnoPYfZajUTQKBhAAAMGOA2k=
+			</data>
+			<obstructions> 
+				<style>tile</style>
+				<format>zlib</format>
+				eNpjYBgFo2AUDFUAAAPAAAE=
+			</obstructions>
+			<entities> </entities>
+			<zones> </zones>
+		</layer>
+	</layers> 
+</ika-map> 
